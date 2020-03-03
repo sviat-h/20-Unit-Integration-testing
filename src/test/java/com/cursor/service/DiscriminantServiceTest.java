@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 class DiscriminantServiceTest {
 
     @Test
-    void methodTest() {
+    void showSolutionTest() {
 
         //GIVEN
         long a = 20;
